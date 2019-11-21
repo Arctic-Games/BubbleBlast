@@ -9,6 +9,8 @@ Assets/AssetStoreTools*
 Packages/
 [Bb]uild/
 [Bb]uilds/
+Assets/Tools/Photon/*
+Assets/Tools/Photon.meta
 *.pidb.meta
 *.pdb.meta
 sysinfo.txt
