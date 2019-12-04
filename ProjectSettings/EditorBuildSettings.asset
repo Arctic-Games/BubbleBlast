@@ -9,6 +9,9 @@ EditorBuildSettings:
     path: Assets/Scenes/MainMenu.unity
     guid: a1f4c62d1f0abf143b49384486c7e9f6
   - enabled: 1
+    path: Assets/Scenes/WaitingRoom.unity
+    guid: 6a286cfd187f076498e560fa62aad3aa
+  - enabled: 1
     path: Assets/Scenes/VersusMain.unity
     guid: 8a92977d3fd6bfe4ebbf95b7f7c25693
   m_configObjects: {}
