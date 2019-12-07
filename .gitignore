@@ -49,6 +49,10 @@ Thumbs.db
 # Other #
 # ===== #
 
+steam_appid.txt
+Assets/Editor/*
+Assets/Editor Default Resources/*
+Assets/Gizmos/*
+Assets/Plugins/*
 Assets/Tools/*/*
-Assets/Tools/Photon.meta
 Assets/Standard Assets/*/*
